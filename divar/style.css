@@ -1,0 +1,129 @@
+html {
+    font-family: Tahom, Verdana, sans-serif;
+}
+
+.btnsabt {
+    background-color: #a62626;
+    color: aliceblue;
+    font-size: 1rem;
+    width: 95px;
+    height: 42px;
+    /* padding: 0.0rem 0.4rem; */
+    border-radius: 5px;
+    border-style: hidden;
+    align-content: center;
+}
+
+.btnsabt:hover {
+    border: 2px solid #b43721;
+    color: #68554c;
+    background: transparent;
+}
+
+.sotoon {
+    direction: rtl;
+}
+
+li {
+    list-style: none;
+    color: gray;
+}
+
+
+/* .card43 {
+    border-style: solid;
+    display: flex;
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: gray;
+    width: 400px;
+    height: 190px;
+} */
+
+.card43:hover {
+    cursor: pointer;
+    border: 1px solid #8e8a88;
+    background: transparent;
+}
+
+nav {
+    color: gray;
+}
+
+div {
+    color: gray;
+}
+
+.gapsin {
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    color: gray;
+}
+
+li:hover {
+    background-color: rgb(233, 233, 233);
+    transition: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.gapsin2 {
+    margin-bottom: 10px;
+}
+
+.justyaround {
+    justify-content: space-around;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.d34-flex {
+    display: flex;
+}
+
+.flex {
+    display: flex;
+    /* justify-content: space-between; */
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.serchbox {
+    font-size: 1rem;
+    width: 500px;
+    height: 35px;
+    /* padding: 0.5rem 0.7rem; */
+    background-color: whitesmoke;
+    border-color: gray;
+}
+
+.div1 {
+    margin: 1rem;
+}
+
+.borderto {
+    border-top: #a62626;
+    size: 25px;
+}
+
+a {}
+
+a:hover {
+    background-color: #f6f0ed;
+    border-radius: 8px;
+}
+
+.hr-ver {
+    color: #423935;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    width: 33px;
+    border-style: dotted;
+    border-width: 1px;
+}
